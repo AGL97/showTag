@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightsteelblue;
+}
+
+header
+{
+    color: dimgray;
+    font-family: 'Trebuchet MS',sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.container .lista
+{
+    border-radius: 5px;
+    color: lightcyan;    
+    padding: 0;
+    background-color: darkslategrey;
+}
+
+.container .lista:hover
+{
+    cursor: pointer;    
+}
+
+
+
