@@ -24,7 +24,6 @@ header
 
 .container .lista
 {
-    border-radius: 5px;
     color: lightcyan;    
     padding: 0;
     background-color: darkslategrey;
@@ -33,9 +32,6 @@ header
     border-style: solid;
     border-color: slategray;
 }
-
-
-
 
 .container .lista:hover
 {
