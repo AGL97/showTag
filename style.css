@@ -38,5 +38,14 @@ header
     cursor: pointer;    
 }
 
+li{
+    padding: 5px;
+    color : lightcyan;
+}
+
+li:hover{
+    color: lightgreen;
+    background-color: darkslateblue;
+}
 
 
